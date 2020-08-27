@@ -2,9 +2,15 @@
 
 I’m currently learning 💡🚀
 
-▪ Android Development
+▪ Android Development 
 
-▪ Kotlin
+▪Kotlin
+
+Let's Connect📌
+
+[Instagram](https://www.instagram.com/kotlin_08/)
+
+[LinkedIn](https://www.linkedin.com/in/arpit-khandelwal-390322173/)
 
 
 
