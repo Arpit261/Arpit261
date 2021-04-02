@@ -14,7 +14,7 @@ Let's Connect📌
 
 
 
-[![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpit261&show_icon=true&theme=dark)
+![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpit261&show_icon=true&theme=dark)
 
 
 <!--
