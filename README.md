@@ -14,8 +14,8 @@ Let's Connect📌
 
 
 
+[![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpit261&show_icon=true&theme=dark)
 
-![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=Arpit261&show_icons=true)
 
 <!--
 **Arpit261/Arpit261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
